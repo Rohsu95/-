@@ -33,7 +33,7 @@
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/sywoo0109"><img src="https://i.ibb.co/8xKS3y9/image.jpg" width="100px;" alt=""/><br /><sub><b>FE 팀장 : 우성윤</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/rohsuhyoek"><img src="https://i.ibb.co/zmXvt8F/Kakao-Talk-20230131-145632406-01.jpg"  width="100px;" alt=""/><br /><sub><b>FE 팀원 : 노수혁</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Rohsu95"><img src="https://i.ibb.co/zmXvt8F/Kakao-Talk-20230131-145632406-01.jpg"  width="100px;" alt=""/><br /><sub><b>FE 팀원 : 노수혁</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/DPDPO"><img src="https://i.ibb.co/c10wQR5/Kakao-Talk-20230131-145632406-04.jpg" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 박승철</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/hannaax"><img src="https://i.ibb.co/CmTrFkw/Kakao-Talk-20230131-145632406-02.jpg" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 박한나</b></sub></a><br /></td>
      <tr/>
